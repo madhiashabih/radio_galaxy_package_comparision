@@ -1,0 +1,12 @@
+# TensorFlow
+tensorflow==2.16.1
+tensorflow-datasets
+
+# PyTorch
+torch==2.2.2
+
+# JAX
+jax==0.4.33
+jaxlib
+flax
+optax
